@@ -1,0 +1,5 @@
+./p-file.txt
+./pattern
+./pattern/pattern1.txt
+./pattern/pattern3.txt
+./pattern/pattern2.txt

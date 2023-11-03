@@ -1,0 +1,5 @@
+  3147234      0 -rw-rw-r--   1 jngmk    jngmk           0  5월 22  2020 ./findtestfile
+  3147247      4 -rw-rw-r--   1 jngmk    jngmk           5  5월 13  2020 ./File/file1.txt
+  3147248      4 -rw-rw-r--   1 jngmk    jngmk           6  5월 13  2020 ./File/file2.txt
+  3147252      0 -rw-rw-r--   1 jngmk    jngmk           0  9월 15 17:34 ./f-file.txt
+  3147240      0 -rw-rw-r--   1 jngmk    jngmk           0  5월 21  2020 ./pattern/findtestfile
